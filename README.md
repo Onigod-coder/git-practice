@@ -1,2 +1,2 @@
 # git-practice
-blah-blah-blah
+Все решили
